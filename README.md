@@ -25,3 +25,11 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://imgur.com/GHgbMp8' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+# Twitter Reader Part 2
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src='http://g.recordit.co/Bdtz6wXy16.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
